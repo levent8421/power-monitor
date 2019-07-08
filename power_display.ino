@@ -27,8 +27,8 @@
 #define DISPLAY_OFF_LOOP_TIMES 10
 #define BUSY_VOL 10.0
 
-static const int START_BEEP[] = {50}; 
-static const int COMPLETE_BEEP[] = {20, 100, 20};
+static const int START_BEEP[] = {6}; 
+static const int COMPLETE_BEEP[] = {3, 100, 3};
 
 
 typedef unsigned long uint32;
